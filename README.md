@@ -7,10 +7,9 @@
 ## Портфолио
 
 ### Тестовая документация
-  * [Тест-кейсы из TestRail для сайта Aленка ](тут_ссылка)
-  * [Баг-репорт сделанный на основе тест-кейсов выше](тут_ссылка)
-  * [Баг-репорты на мобильные приложения](тут_ссылка)
-  * [Баг-репорты для сайтов](тут_ссылка)
+  * [Тест-кейсы из TestRail для сайта Aленка ](https://drive.google.com/file/d/1AeTKY8pNQmRkGMLZvIXqM038JuqTVlZb/view?usp=share_link)
+  * [Баг-репорты для мобильных приложений](https://drive.google.com/drive/folders/1cl7d_T7xpPxBoSJJVcaMSQCXif5pzRvl?usp=share_link)
+  * [Баг-репорты для сайтов](https://drive.google.com/drive/folders/1ixl5Wju2d_9Trn4OJJSs9YVzuEhk9plk?usp=share_link)
 ### Коллекции в Postman
    * [Тестовые запросы в Pet Swagger](тут_ссылка)
    * [Тестовые запросы в рамках обучения в Skillbox](тут_ссылка)
@@ -20,7 +19,7 @@
   * [сайт для отеля (Skilbox, HTML, CSS)](тут_ссылка)
 ## My CV и Контакты
 * [Мое резюме на HH](ссылка_тут)
-* [Аккаунт на LinkedIn](ссылка_тут)
+* [Аккаунт на LinkedIn](https://www.linkedin.com/in/oleg-efimov-74143a228)
 
   
   
