@@ -14,7 +14,7 @@
    * [Тестовые запросы в Pet Swagger](https://drive.google.com/file/d/1O4X3QqBw-Ip2uujfDH45ttesYcWqTslT/view?usp=share_link)
    * [Тестовые запросы в рамках обучения в Skillbox](тут_ссылка)
 ### HTML, CSS проекты
-  * [первый сверстанный сайт в рамках обучения в Skilbox](тут_ссылка)
+  * [первый сверстанный сайт в рамках обучения в Skilbox](https://github.com/L-12D/3)
   * [сайт для юридического агенства (Skilbox, HTML, CSS)](https://github.com/L-12D/Lionic)
   * [сайт для отеля (Skilbox, HTML, CSS)](https://github.com/L-12D/Lagoona)
 ## My CV и Контакты
