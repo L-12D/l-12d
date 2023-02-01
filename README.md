@@ -18,8 +18,8 @@
   * [сайт для юридического агенства (Skilbox, HTML, CSS)](https://github.com/L-12D/Lionic)
   * [сайт для отеля (Skilbox, HTML, CSS)](https://github.com/L-12D/Lagoona)
 ## My CV и Контакты
-* [Мое резюме на HH](https://hh.ru/resume/bcf234b1ff0ba88ad90039ed1f747243594a50)
-* [Аккаунт на LinkedIn](https://www.linkedin.com/in/oleg-efimov-74143a228)
+  * [Мое резюме на HH](https://hh.ru/resume/bcf234b1ff0ba88ad90039ed1f747243594a50)
+  * [Аккаунт на LinkedIn](https://www.linkedin.com/in/oleg-efimov-74143a228)
 
   
   
